@@ -12,5 +12,12 @@
   "make-md",
   "recent-files-obsidian",
   "obsidian-mind-map",
-  "templater-obsidian"
+  "templater-obsidian",
+  "url-into-selection",
+  "obsidian-style-settings",
+  "obsidian-show-file-path",
+  "obsidian-admonition",
+  "keyword-highlighter",
+  "obsidian-itinerary",
+  "obsidian-plantuml"
 ]
