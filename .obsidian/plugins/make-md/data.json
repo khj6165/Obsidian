@@ -44,9 +44,8 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
-    "//Tags",
-    "//Excalidraw"
+    "//Excalidraw",
+    "/"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

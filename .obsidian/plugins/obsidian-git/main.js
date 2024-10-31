@@ -356,3 +356,5 @@ feather-icons/dist/feather.js:
     http://jedwatson.github.io/classnames
   *)
 */
+
+/* nosourcemap */
