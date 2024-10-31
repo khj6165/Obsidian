@@ -19,5 +19,9 @@
   "obsidian-admonition",
   "keyword-highlighter",
   "obsidian-itinerary",
-  "obsidian-plantuml"
+  "obsidian-plantuml",
+  "obsidian-icon-folder",
+  "obsidian-minimal-settings",
+  "obsidian-checklist-plugin",
+  "obsidian-linter"
 ]
