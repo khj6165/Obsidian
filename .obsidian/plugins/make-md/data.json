@@ -45,7 +45,13 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "//Excalidraw",
-    "/"
+    "/",
+    "//Area/Area/Frontend/Area/Frontend/Nuxt3",
+    "//Archive",
+    "//Project",
+    "//Area",
+    "//Area/Area/Backend",
+    "//Area/Area/Frontend"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
