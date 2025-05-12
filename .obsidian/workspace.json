@@ -4,34 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "337401a15bc2add3",
+        "id": "98ccd671272c5eb8",
         "type": "tabs",
         "children": [
           {
-            "id": "171d2717a9c2531b",
+            "id": "54b2b6083f84303c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/Backend/JPA Criteria, Specification.md",
+                "file": "Area/Backend/인증 개념정리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JPA Criteria, Specification"
+              "title": "인증 개념정리"
             }
           },
           {
-            "id": "5d5364b83a680365",
+            "id": "f938e4c8a24c0c56",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Area/GCP/API 매핑.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "API 매핑"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +99,7 @@
             }
           },
           {
-            "id": "d2ef1334bf00bd8a",
+            "id": "c8a9a7311dba5263",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -108,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 299.5
   },
   "right": {
     "id": "452e8aafa56a3c1c",
@@ -170,10 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/Backend/JPA Criteria, Specification.md"
+                "file": "Area/GCP/API 매핑.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of JPA Criteria, Specification"
+              "title": "Outline of API 매핑"
             }
           },
           {
@@ -221,7 +229,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 591.5
+    "width": 546.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,46 +242,58 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "remotely-save:Remotely Save": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "171d2717a9c2531b",
+  "active": "f938e4c8a24c0c56",
   "lastOpenFiles": [
-    "Area/Backend/JPA Criteria, Specification.md",
-    "Area/Backend/Backend.md",
-    "Area/Backend/Pageable.md",
-    "Area/Backend/API.md",
-    "Area/Area.md",
+    "Area/Backend/Oauth2.0.md",
+    "Area/Backend/인증 개념정리.md",
     "Area/Backend/Spring 메모.md",
+    "Area/Backend/Pageable.md",
+    "Pasted image 20250305174528.png",
+    "Area/GCP/SSO 연동 가이드 ver2.md",
+    "Area/GCP/SSO 연동 가이드.md",
+    "Area/Backend/keycloak.md",
+    "Area/GCP/IAM.md",
+    "Area/GCP/API 매핑.md",
+    "Area/GCP/Big Query.md",
+    "Area/Backend/Java.md",
+    "Area/Backend/JPA Criteria, Specification.md",
+    "Area/Backend/API.md",
     "Area/Frontend/Nuxt3/API 호출.md",
+    "Pasted image 20250212104655.png",
+    "Area/Backend/회의록.md",
+    "Area/Backend/Spring Cloud.md",
+    "Pasted image 20250131133633.png",
+    "Area/트러블슈팅.md",
+    "Pasted image 20250115164958.png",
+    "Area/GCP/index.md",
+    "Area/GCP/.md",
+    "Area/GCP/API 매핑1.md",
+    "Area/Frontend/Nuxt3/Rendering.md",
+    "Area/GCP/GCP.md",
+    "Pasted image 20241202160653.png",
+    "Pasted image 20241202160641.png",
+    "Pasted image 20241202140559.png",
+    "Pasted image 20241125114621.png",
+    "Pasted image 20241125111153.png",
+    "Untitled.canvas",
+    "Area/GCP",
+    "Area/Area.md",
+    "Area/Untitled 1.md",
+    "Area/Backend/Backend.md",
+    "Area/Backend/.md",
     "Tags",
-    "Tags/Tags.md",
-    "api/api.md",
     "api",
     "Area/Backend",
-    "Area/Frontend/Nuxt3/Rendering.md",
-    "Area/index.md",
-    "Untitled.canvas",
-    "Archive/index.md",
-    "Project/index.md",
-    "README.md",
-    "Archive/Archive.md",
-    "Resource/Resource.md",
-    "Project/Project.md",
     "Pasted image 20241031154119.png",
-    "Resource/index.md",
     "Resource",
     "Project",
     "Area",
     "Archive",
     "Area/Frontend/Nuxt3",
-    "Area/Frontend",
-    "2024-10-31.md",
-    "Vault.md",
-    "conflict-files-obsidian-git.md",
-    "gitignore.txt",
-    "Untitled Kanban.md",
-    "Excalidraw/Drawing 2024-10-31 11.43.03.excalidraw.md"
+    "Area/Frontend"
   ]
 }

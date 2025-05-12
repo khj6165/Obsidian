@@ -46,12 +46,11 @@
   "expandedSpaces": [
     "//Excalidraw",
     "/",
-    "//Area/Area/Frontend/Area/Frontend/Nuxt3",
-    "//Archive",
-    "//Project",
     "//Area",
+    "//Area/Area/Frontend",
     "//Area/Area/Backend",
-    "//Area/Area/Frontend"
+    "//Area/Area/Frontend/Area/Frontend/Nuxt3",
+    "//Area/Area/GCP"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
